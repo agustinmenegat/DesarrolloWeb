@@ -1,0 +1,20 @@
+@import 'components/footer';
+@import 'components/header';
+@import 'components/seccion-index/hall-of-fame';
+@import 'components/seccion-index/portada';
+@import 'components/seccion-campazzo/campazzo';
+@import 'components/seccion-deck/deck';
+@import 'components/seccion-vildoza/vildoza';
+@import 'components/seccion-jjoo/jjoo';
+@import 'components/seccion-contacto/contacto';
+@import 'components/seccion-index/countdown-index';
+
+@import 'base/extends';
+@import 'base/variables';
+@import 'base/maps';
+@import 'base/mixins-conditions';
+
+
+body {
+    font-family: 'Trispace', sans-serif;
+}

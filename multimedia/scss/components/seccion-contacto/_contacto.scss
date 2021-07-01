@@ -1,0 +1,38 @@
+@import '../../base/extends';
+@import '../../base/variables';
+@import '../../base/maps';
+@import '../../base/mixins-conditions';
+
+body {
+    section {
+        .h1-interactuemos {
+            text-align: center;
+            font-weight: bold;
+        }
+        .img-our-team {
+            float: left;
+            width: 15%;
+            top: 10%;
+            right: 5%;
+        }
+        div {
+            div {
+                .quienes-somos {
+                    text-align: center;
+                    font-weight: bold;
+                }
+                .quienes-somos-p {
+                    text-align: center;
+                }
+                .escribinos {
+                    text-align: center;
+                    font-weight: bold;
+                }
+                .iniciar-sesion {
+                    text-align: center;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}

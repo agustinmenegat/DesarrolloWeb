@@ -1,0 +1,21 @@
+@import '../base/extends';
+@import '../base/variables';
+@import '../base/maps';
+
+
+@mixin encabezado-seccion ($color, $size, $f-weight) {
+    text-decoration: none;
+    list-style: none;
+    color: $color;
+    font-style: $size;
+    font-weight: $f-weight;
+    background-color: #0a66c2;
+}
+
+@mixin encabezados ($color-title) {
+    color: $color-title;
+
+    @if $color-title == $color-claro {
+        background-color: #F58426; 
+    }
+}

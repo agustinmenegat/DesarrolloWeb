@@ -1,0 +1,38 @@
+@import '../base/variables';
+@import '../base/extends';
+
+
+header {
+    background-color: $color-oscuro;
+    font-family: 'Trispace', sans-serif;;
+    nav {
+        div {
+            .navbar-brand {
+                padding: $padding-borde-logo;
+                transition: all 5s;
+                &:hover {
+                    transform: translateY(-50px) translateX(60px) rotate(25deg);
+                    
+                }
+            }       
+            div { 
+                ul {
+                    li {
+                        font-size: medium;
+                        .dropdown-item {
+                            color: $color-gris-claro;
+                            font-weight: bold;
+                            &:hover {
+                                background-color: $color-oscuro;
+                                color: $color-claro;
+                            }
+                            
+                        }
+                    }
+                    
+                }
+            }
+         
+        }
+    }
+}

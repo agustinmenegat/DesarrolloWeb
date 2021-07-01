@@ -1,0 +1,101 @@
+@import '../../base/extends';
+@import '../../base/variables';
+@import '../../base/maps';
+@import '../../base/mixins-conditions';
+
+
+body {
+    background-color: $color-claro;
+    section {
+        .div-h1 {
+            text-align: center;
+            background-color: #0E2240;
+            border-bottom: 5px solid #FEC524;
+            .h1-facu {
+                text-align: center;
+                color: $color-claro;
+            }
+        }
+    }
+        
+
+    .seccion-central {
+        margin: auto;
+        width: auto;
+        background-color: $color-claro;
+        div {
+            div {
+                .bg-encabezados {
+                    background-color: #0E2240;
+                    border-bottom: 5px solid #FEC524;
+                }
+                div {
+                    border-radius: 5px;
+                    .denver-mobile {
+                        color: $color-claro;
+                    }
+                    h4 {
+                        color: map-get($color-rrss, claro);
+                        font-size: map-get($size-letter, xl);
+                        @extend %flex-centrado; 
+                        margin: 0;
+                    }
+                    .escudo-denver {
+                        max-width: 30px;
+                        transition: all 2s;
+                        &:hover {
+                            transform: scale(1.5);
+                        }
+                    }
+                    .miniaturas {
+                        border: 1px solid $color-oscuro;
+                        border-radius: 100px;
+                        max-width: 70px;
+                        @extend %flex-centrado;
+                    }
+                    .miniatura-enlace:hover {
+                        opacity: 0.5;
+                    }
+                    .name-miniatura {
+                        @extend %list-no-decoration-oscuro;
+                        font-weight: bold;
+                        &:hover {
+                            @extend %list-no-decoration-gris;
+                        }
+                    }
+                    h3 {
+                        color: map-get($color-rrss, claro);
+                        font-size: map-get($size-letter, xl);
+                        @extend %flex-centrado; 
+                    }
+                    p {
+                        padding: 0;
+                        margin: 0;
+                    }
+                    .icons-rrss-twitter {
+                        text-decoration: none;
+                        list-style: none;    
+                        color: $color-gris-oscuro; 
+                            &:hover {
+                                color: $color-twitter;
+                            }
+                    }
+                    .icons-rrss-ig {
+                        text-decoration: none;
+                        list-style: none;    
+                        color: $color-gris-oscuro; 
+                            &:hover {
+                                color: $color-instagram;
+                            }
+                    }
+                    a {
+                        @extend %list-no-decoration-oscuro;
+                        font-size: 1rem;
+                    }
+                }
+            
+            
+            }
+        }
+    }
+}

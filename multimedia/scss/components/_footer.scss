@@ -1,0 +1,38 @@
+@import '../base/extends';
+@import '../base/variables';
+
+footer {
+    background-color: $color-oscuro;
+    .div-container {
+
+        .ds-footer {
+            @extend %list-no-decoration-claro;
+            &:hover {
+                color: $color-gris-oscuro;
+            }
+        }
+        .links-footer {
+            @extend %list-no-decoration-claro;
+            &:hover {
+                color: $color-gris-oscuro;
+            }
+        }
+        .icons-rrss {
+            color: $color-claro;
+            padding: $padding-borde-logo;
+                &:hover {
+                    color: $color-gris-oscuro;
+                }
+
+            }
+        }
+        .copyright {
+            color: $color-gris-claro;
+            font-size: small;
+        }
+    }
+
+
+.fa-facebook-square:hover {
+    color: $color-facebook;
+}

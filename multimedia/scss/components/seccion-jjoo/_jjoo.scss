@@ -1,0 +1,70 @@
+@import '../../base/extends';
+@import '../../base/variables';
+@import '../../base/maps';
+@import '../../base/mixins-conditions';
+
+
+.encabezado-jjoo-mobile {
+        background-color: #080861;
+        color: $color-claro;
+        text-align: center;
+        padding-top: 8px;
+        padding-bottom: 4px;
+
+        @media only screen and (min-width: 991px)  {
+            display: none;
+        }
+}
+section {
+    div {
+        .jjoo-main {
+            @media only screen and (max-width: 991px) {
+                display: none;
+            }
+        }
+        div {
+            .img-tokio {
+                width: 100%;
+            }
+            div {
+                .text-cards-jjoo {
+                    @extend %list-no-decoration-oscuro;
+                    font-weight: bold;
+                    &:hover {
+                        background-color: $color-oscuro;
+                        color: $color-claro;
+                        font-weight: normal;
+                        padding: 3px;
+                        border-radius: 2px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+#cuenta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.simply-section {
+    background: linear-gradient(#090942, #141475, #1b1b99, #2525d3);
+    color: $color-claro;
+    width: 8rem;
+    height: 8rem;
+    padding: 1rem;
+    margin: 0 0.5rem;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.simply-amount {
+    display: block;
+    font-size: 3rem;
+    font-weight: bold;
+}

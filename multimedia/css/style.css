@@ -1,0 +1,929 @@
+body .seccion-central div div div h3, body .seccion-central div div div .miniaturas, body .seccion-central div div div h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .links-footer, footer .div-container .ds-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div a, body .seccion-central div div div .name-miniatura {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+footer {
+  background-color: #1a1a1a;
+}
+footer .div-container .ds-footer:hover {
+  color: #707070;
+}
+footer .div-container .links-footer:hover {
+  color: #707070;
+}
+footer .div-container .icons-rrss {
+  color: #f3f3f3;
+  padding: 0px 4px;
+}
+footer .div-container .icons-rrss:hover {
+  color: #707070;
+}
+footer .copyright {
+  color: #d3d3d3;
+  font-size: small;
+}
+
+.fa-facebook-square:hover {
+  color: #3B579D;
+}
+
+body .seccion-central div div div h3, body .seccion-central div div div .miniaturas, body .seccion-central div div div h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div a, body .seccion-central div div div .name-miniatura {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+header {
+  background-color: #1a1a1a;
+  font-family: "Trispace", sans-serif;
+}
+header nav div .navbar-brand {
+  padding: 0px 4px;
+  transition: all 5s;
+}
+header nav div .navbar-brand:hover {
+  transform: translateY(-50px) translateX(60px) rotate(25deg);
+}
+header nav div div ul li {
+  font-size: medium;
+}
+header nav div div ul li .dropdown-item {
+  color: #d3d3d3;
+  font-weight: bold;
+}
+header nav div div ul li .dropdown-item:hover {
+  background-color: #1a1a1a;
+  color: #f3f3f3;
+}
+
+body .seccion-central div div div h3, body .seccion-central div div div .miniaturas, body .seccion-central div div div h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div a, body .seccion-central div div div .name-miniatura {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+.section-hall {
+  background-image: url(../img/Saturno.jpg);
+  background-repeat: no-repeat;
+  padding: 100px;
+}
+.section-hall div div div h2 {
+  color: #f3f3f3;
+  font-family: "Trispace", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.section-hall div div div div div .nombres-hall {
+  color: #f3f3f3;
+  text-align: center;
+  background-color: #141414;
+  padding: 1px;
+  margin-bottom: 16px;
+}
+
+body .seccion-central div div div h3, body .seccion-central div div div .miniaturas, body .seccion-central div div div h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div a, body .seccion-central div div div .name-miniatura {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div .foto-portada {
+  width: 100%;
+}
+section div div .texto-portada {
+  font-size: medium;
+  font-family: "Trispace", sans-serif;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+body .seccion-central div div div h3, body .seccion-central div div div .miniaturas, body .seccion-central div div div h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div a, body .seccion-central div div div .name-miniatura {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div h3, body .seccion-central div div div .miniaturas, body .seccion-central div div div h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div a, body .seccion-central div div div .name-miniatura {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+body section .div-h1 {
+  text-align: center;
+  background-color: #0E2240;
+  border-bottom: 5px solid #FEC524;
+}
+body section .div-h1 .h1-facu {
+  text-align: center;
+  color: #f3f3f3;
+}
+body .seccion-central {
+  margin: auto;
+  width: auto;
+  background-color: #f3f3f3;
+}
+body .seccion-central div div .bg-encabezados {
+  background-color: #0E2240;
+  border-bottom: 5px solid #FEC524;
+}
+body .seccion-central div div div {
+  border-radius: 5px;
+}
+body .seccion-central div div div .denver-mobile {
+  color: #f3f3f3;
+}
+body .seccion-central div div div h4 {
+  color: #f3f3f3;
+  font-size: 25px;
+  margin: 0;
+}
+body .seccion-central div div div .escudo-denver {
+  max-width: 30px;
+  transition: all 2s;
+}
+body .seccion-central div div div .escudo-denver:hover {
+  transform: scale(1.5);
+}
+body .seccion-central div div div .miniaturas {
+  border: 1px solid #1a1a1a;
+  border-radius: 100px;
+  max-width: 70px;
+}
+body .seccion-central div div div .miniatura-enlace:hover {
+  opacity: 0.5;
+}
+body .seccion-central div div div .name-miniatura {
+  font-weight: bold;
+}
+body .seccion-central div div div h3 {
+  color: #f3f3f3;
+  font-size: 25px;
+}
+body .seccion-central div div div p {
+  padding: 0;
+  margin: 0;
+}
+body .seccion-central div div div .icons-rrss-twitter {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+}
+body .seccion-central div div div .icons-rrss-twitter:hover {
+  color: #2CAAE1;
+}
+body .seccion-central div div div .icons-rrss-ig {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+}
+body .seccion-central div div div .icons-rrss-ig:hover {
+  color: #cc2366;
+}
+body .seccion-central div div div a {
+  font-size: 1rem;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div .name-miniatura, body .seccion-central div div div a {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div .name-miniatura, body .seccion-central div div div a {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+body section .div-h1-deck {
+  text-align: center;
+  background-color: #007AC1;
+  border-bottom: 5px solid #EF3B24;
+}
+body section .div-h1-deck .h1-deck {
+  text-align: center;
+  color: #f3f3f3;
+}
+body .seccion-central {
+  margin: auto;
+  width: auto;
+  background-color: #f3f3f3;
+}
+body .seccion-central div div .bg-encabezado-deck {
+  background-color: #007AC1;
+  border-bottom: 5px solid #EF3B24;
+}
+body .seccion-central div div div {
+  border-radius: 5px;
+}
+body .seccion-central div div div h4 {
+  color: #f3f3f3;
+  font-size: 25px;
+}
+body .seccion-central div div div .escudo-okc {
+  max-width: 30px;
+  transition: all 2s;
+}
+body .seccion-central div div div .escudo-okc:hover {
+  transform: scale(2);
+}
+body .seccion-central div div div .miniaturas {
+  border: 1px solid #1a1a1a;
+  border-radius: 100px;
+  max-width: 70px;
+}
+body .seccion-central div div div .miniatura-enlace:hover {
+  opacity: 0.5;
+}
+body .seccion-central div div div .name-miniatura {
+  font-weight: bold;
+}
+body .seccion-central div div div h3 {
+  color: #f3f3f3;
+  font-size: 25px;
+}
+body .seccion-central div div div p {
+  padding: 0;
+  margin: 0;
+}
+body .seccion-central div div div .icons-rrss-twitter {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+}
+body .seccion-central div div div .icons-rrss-twitter:hover {
+  color: #2CAAE1;
+}
+body .seccion-central div div div .icons-rrss-ig {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+}
+body .seccion-central div div div .icons-rrss-ig:hover {
+  color: #cc2366;
+}
+body .seccion-central div div div a {
+  font-size: 1rem;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div .name-miniatura, body .seccion-central div div div a {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div .name-miniatura, body .seccion-central div div div a {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+body section .div-h1-vildoza {
+  text-align: center;
+  background-color: #222222;
+  border-bottom: 5px solid #F58426;
+}
+body section .div-h1-vildoza .h1-vildoza {
+  text-align: center;
+  color: #f3f3f3;
+}
+body .seccion-central {
+  margin: auto;
+  width: auto;
+  background-color: #f3f3f3;
+}
+body .seccion-central div div .bg-encabezado-luca {
+  background-color: #222222;
+  border-bottom: 5px solid #F58426;
+}
+body .seccion-central div div div {
+  border-radius: 5px;
+}
+body .seccion-central div div div h4 {
+  color: #f3f3f3;
+  font-size: 25px;
+}
+body .seccion-central div div div .escudo-knicks {
+  max-width: 30px;
+  transition: all 2s;
+}
+body .seccion-central div div div .escudo-knicks:hover {
+  transform: scale(2);
+}
+body .seccion-central div div div .miniaturas {
+  border: 1px solid #1a1a1a;
+  border-radius: 100px;
+  max-width: 70px;
+}
+body .seccion-central div div div .miniatura-enlace:hover {
+  opacity: 0.9;
+}
+body .seccion-central div div div .name-miniatura {
+  font-weight: bold;
+}
+body .seccion-central div div div h3 {
+  color: #f3f3f3;
+  font-size: 25px;
+}
+body .seccion-central div div div p {
+  padding: 0;
+  margin: 0;
+}
+body .seccion-central div div div .icons-rrss-twitter {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+}
+body .seccion-central div div div .icons-rrss-twitter:hover {
+  color: #2CAAE1;
+}
+body .seccion-central div div div .icons-rrss-ig {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+}
+body .seccion-central div div div .icons-rrss-ig:hover {
+  color: #cc2366;
+}
+body .seccion-central div div div a {
+  font-size: 1rem;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div .name-miniatura, body .seccion-central div div div a {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+section div div div .text-cards-jjoo, body .seccion-central div div div .name-miniatura, body .seccion-central div div div a {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+.encabezado-jjoo-mobile {
+  background-color: #080861;
+  color: #f3f3f3;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 4px;
+}
+@media only screen and (min-width: 991px) {
+  .encabezado-jjoo-mobile {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  section div .jjoo-main {
+    display: none;
+  }
+}
+section div div .img-tokio {
+  width: 100%;
+}
+section div div div .text-cards-jjoo {
+  font-weight: bold;
+}
+section div div div .text-cards-jjoo:hover {
+  background-color: #1a1a1a;
+  color: #f3f3f3;
+  font-weight: normal;
+  padding: 3px;
+  border-radius: 2px;
+}
+
+#cuenta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.simply-section {
+  background: linear-gradient(#090942, #141475, #1b1b99, #2525d3);
+  color: #f3f3f3;
+  width: 8rem;
+  height: 8rem;
+  padding: 1rem;
+  margin: 0 0.5rem;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.simply-amount {
+  display: block;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura, body .seccion-central div div div a, section div div div .text-cards-jjoo {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura, body .seccion-central div div div a, section div div div .text-cards-jjoo {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body section .h1-interactuemos {
+  text-align: center;
+  font-weight: bold;
+}
+body section .img-our-team {
+  float: left;
+  width: 15%;
+  top: 10%;
+  right: 5%;
+}
+body section div div .quienes-somos {
+  text-align: center;
+  font-weight: bold;
+}
+body section div div .quienes-somos-p {
+  text-align: center;
+}
+body section div div .escribinos {
+  text-align: center;
+  font-weight: bold;
+}
+body section div div .iniciar-sesion {
+  text-align: center;
+  font-weight: bold;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura, body .seccion-central div div div a, section div div div .text-cards-jjoo {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+.encabezado-juegos {
+  color: #f3f3f3;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+#cuenta-index {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+.simply-section-index {
+  background-color: #f3f3f3;
+  color: #1a1a1a;
+  width: 8rem;
+  height: 8rem;
+  padding: 1rem;
+  margin: 0 1rem;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media only screen and (max-width: 500px) {
+  .simply-section-index {
+    width: 4rem;
+    height: 4rem;
+    padding: 1rem;
+    margin: 0 0.5rem;
+  }
+}
+
+.simply-amount-index {
+  display: block;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+}
+@media only screen and (max-width: 500px) {
+  .simply-amount-index {
+    font-size: 1rem;
+  }
+}
+
+.simply-word-index {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1rem;
+}
+@media only screen and (max-width: 500px) {
+  .simply-word-index {
+    font-size: 0.7rem;
+  }
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura, body .seccion-central div div div a, section div div div .text-cards-jjoo {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div h4, body .seccion-central div div div .miniaturas, body .seccion-central div div div h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer .div-container .ds-footer, footer .div-container .links-footer {
+  text-decoration: none;
+  list-style: none;
+  color: #f3f3f3;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura:hover {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-style: "Trispace", sans-serif;
+}
+
+body .seccion-central div div div .name-miniatura, body .seccion-central div div div a, section div div div .text-cards-jjoo {
+  text-decoration: none;
+  list-style: none;
+  color: #1a1a1a;
+  font-style: "Trispace", sans-serif;
+}
+
+body {
+  font-family: "Trispace", sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */

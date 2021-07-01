@@ -1,0 +1,18 @@
+@import '../../base/extends';
+@import '../../base/variables';
+
+section {
+    div {
+        div {
+            .foto-portada {
+                width: 100%;
+            }
+            .texto-portada {
+                font-size: medium;
+                font-family: 'Trispace', sans-serif;
+                letter-spacing: 2px;
+                font-weight: bold;
+            }
+        }
+    }
+}

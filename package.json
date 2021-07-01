@@ -1,0 +1,15 @@
+{
+  "name": "nba-menegat-agustin",
+  "version": "1.0.0",
+  "description": "Este sitio está realizado en agradecimiento a los basquetbolistas argentinos que juegan y que han jugado en la liga de básquet más competitiva del mundo, la NBA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agustín Menegat",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "nodemon": "^2.0.7"
+  }
+}

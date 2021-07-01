@@ -1,0 +1,40 @@
+@import '../../base/extends';
+@import '../../base/variables';
+
+.section-hall {
+    background-image: url(../img/Saturno.jpg);
+    background-repeat: no-repeat;
+    padding: 100px;
+    div {
+        div {
+            div {
+                h2 {
+                    color: $color-claro;
+                    font-family: 'Trispace', sans-serif;
+                    font-weight: bold;
+                    letter-spacing: 1px;
+                }
+            }
+        }    
+    }
+    div {
+        div {
+            div {
+                div {
+                    div {
+                        .nombres-hall {
+                            color: $color-claro;
+                            text-align: center;
+                            background-color: #141414;
+                            padding: 1px;
+                            margin-bottom: 16px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}        
+
+

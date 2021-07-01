@@ -1,0 +1,29 @@
+@import 'variables';
+
+%flex-centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+%list-no-decoration-claro {
+    text-decoration: none;
+    list-style: none;
+    color: $color-claro;
+    font-style: $font-principal;
+}
+
+%list-no-decoration-gris {
+    text-decoration: none;
+    list-style: none;
+    color: $color-gris-oscuro;
+    font-style: $font-principal;
+}
+
+%list-no-decoration-oscuro {
+    text-decoration: none;
+    list-style: none;
+    color: $color-oscuro;
+    font-style: $font-principal;
+}

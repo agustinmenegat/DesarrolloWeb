@@ -1,0 +1,58 @@
+@import '../../base/extends';
+@import '../../base/variables';
+
+.encabezado-juegos {
+    color: $color-claro;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+#cuenta-index {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.simply-section-index {
+    background-color: $color-claro;
+    color: $color-oscuro;
+    width: 8rem;
+    height: 8rem;
+    padding: 1rem;
+    margin: 0 1rem;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @media only screen and (max-width: 500px) {
+        width: 4rem;
+        height: 4rem;
+        padding: 1rem;
+        margin: 0 0.5rem;        
+    }
+}
+
+.simply-amount-index {
+    display: block;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    @media only screen and (max-width: 500px) {
+    font-size: 1rem;
+    }
+}
+
+.simply-word-index {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1rem;
+    @media only screen and (max-width: 500px) {
+        font-size: 0.7rem;
+    }
+}
+
