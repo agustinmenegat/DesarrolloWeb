@@ -638,7 +638,7 @@ section div div div .text-cards-jjoo, body .seccion-central div div div .name-mi
 }
 
 .encabezado-jjoo-mobile {
-  background-color: #080861;
+  background: linear-gradient(#090942, #141475, #1b1b99, #2525d3);
   color: #f3f3f3;
   text-align: center;
   padding-top: 8px;
