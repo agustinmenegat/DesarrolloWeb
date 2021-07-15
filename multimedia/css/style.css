@@ -187,6 +187,17 @@ section div div .texto-portada {
   font-weight: bold;
 }
 
+.que-somos-section {
+  background-color: #f3f3f3;
+}
+.que-somos-section .que-somos-div .quienes-somos {
+  text-align: center;
+  font-weight: bold;
+}
+.que-somos-section .que-somos-div .quienes-somos-p {
+  text-align: center;
+}
+
 body .seccion-central div div div h3, body .seccion-central div div div .miniaturas, body .seccion-central div div div h4 {
   display: flex;
   justify-content: center;
@@ -760,13 +771,6 @@ body section .img-our-team {
   width: 15%;
   top: 10%;
   right: 5%;
-}
-body section div div .quienes-somos {
-  text-align: center;
-  font-weight: bold;
-}
-body section div div .quienes-somos-p {
-  text-align: center;
 }
 body section div div .escribinos {
   text-align: center;

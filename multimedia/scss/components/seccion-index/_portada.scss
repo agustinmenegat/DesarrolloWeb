@@ -13,6 +13,19 @@ section {
                 letter-spacing: 2px;
                 font-weight: bold;
             }
-        }
+        }  
     }
+}
+.que-somos-section {   
+    background-color: $color-claro; 
+    .que-somos-div {
+        
+        .quienes-somos {
+            text-align: center;
+            font-weight: bold;
+        }
+        .quienes-somos-p {
+            text-align: center;
+        }
+    }           
 }
